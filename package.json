@@ -1,7 +1,7 @@
 {
-  "name": "@juntoz/koa-redis-client",
+  "name": "@juntoz/simple-redis-client",
   "version": "1.0.0",
-  "description": "Redis client embedded in Koa so it has a special tooling to clear or expire entries",
+  "description": "Simple async wrapper for redis",
   "main": "index.js",
   "scripts": {
     "test": "jest"
