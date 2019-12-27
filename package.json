@@ -1,0 +1,28 @@
+{
+  "name": "@juntoz/koa-redis-client",
+  "version": "1.0.0",
+  "description": "Redis client embedded in Koa so it has a special tooling to clear or expire entries",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juntoz/koa-redis-client.git"
+  },
+  "author": "Juntoz.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Juntoz/koa-redis-client/issues"
+  },
+  "homepage": "https://github.com/Juntoz/koa-redis-client#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "lodash.merge": "^4.6.2",
+    "redis": "^2.8.0",
+    "util": "^0.12.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
