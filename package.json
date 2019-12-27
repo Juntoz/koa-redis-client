@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Juntoz/koa-redis-client.git"
+    "url": "git+https://github.com/Juntoz/simple-redis-client.git"
   },
   "author": "Juntoz.com",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/Juntoz/koa-redis-client/issues"
+    "url": "https://github.com/Juntoz/simple-redis-client/issues"
   },
-  "homepage": "https://github.com/Juntoz/koa-redis-client#readme",
+  "homepage": "https://github.com/Juntoz/simple-redis-client#readme",
   "dependencies": {
     "bluebird": "^3.7.2",
     "lodash.merge": "^4.6.2",
